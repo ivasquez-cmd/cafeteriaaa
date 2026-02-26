@@ -1,0 +1,4 @@
+Productos:
+cafe = 3000
+te = 2500
+sandwich = 7000
