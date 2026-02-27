@@ -1,5 +1,5 @@
 Productos:
-fresa = 2000
-cafe = 3000
-te = 2500
-sandwich = 7000
+pan de coco 
+hola
+pan de queso
+cafe
