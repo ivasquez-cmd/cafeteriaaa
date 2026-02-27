@@ -9,3 +9,7 @@ sandwich = 7000
 pan de queso
 pan de arequipe
 
+pan de coco 
+hola
+pan de queso
+cafe
